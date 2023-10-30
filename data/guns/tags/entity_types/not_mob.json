@@ -2,6 +2,7 @@
     "replace": false,
     "values": [
       "minecraft:player",
+      "minecraft:axolotl",
       "minecraft:item",
       "minecraft:item_frame",
       "minecraft:glow_item_frame",
