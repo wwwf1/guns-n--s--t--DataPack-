@@ -1,5 +1,5 @@
 # something here
-# scoreboard time
+# scoreboard time (just incase)
 scoreboard objectives add gonPew minecraft.used:minecraft.carrot_on_a_stick
 
 #runs startraycast when a carrot on a stick with the tag 'gon' has been right clicked
